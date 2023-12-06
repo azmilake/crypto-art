@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "pic": "/card-largest-1.png",
+    "code": "#4320",
+    "price": "4.2KQ ($7.89M)",
+    "date": "Mar 11, 2023"
+  },
+  {
+    "id": 2,
+    "pic": "/card-largest-2.png",
+    "code": "#4320",
+    "price": "4.2KQ ($7.89M)",
+    "date": "Mar 11, 2023"
+  },
+  {
+    "id": 3,
+    "pic": "/card-largest-3.png",
+    "code": "#4320",
+    "price": "4.2KQ ($7.89M)",
+    "date": "Mar 11, 2023"
+  },
+  {
+    "id": 4,
+    "pic": "/card-largest-4.png",
+    "code": "#4320",
+    "price": "4.2KQ ($7.89M)",
+    "date": "Mar 11, 2023"
+  },
+  {
+    "id": 5,
+    "pic": "/card-largest-3.png",
+    "code": "#4320",
+    "price": "4.2KQ ($7.89M)",
+    "date": "Mar 11, 2023"
+  },
+  {
+    "id": 6,
+    "pic": "/card-largest-4.png",
+    "code": "#4320",
+    "price": "4.2KQ ($7.89M)",
+    "date": "Mar 11, 2023"
+  }
+]
